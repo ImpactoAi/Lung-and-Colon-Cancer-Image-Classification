@@ -1,4 +1,4 @@
-# 🫁 Lung-and-Colon-Cancer-Image-Classification
+# 🫁 Lung-and-Colon-Cancer-Image-Classification  
 
 Lung and colon cancers are two of the most common malignancies, which in some cases, may develop synchronously.
 
